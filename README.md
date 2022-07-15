@@ -8,4 +8,5 @@
 * Logística | Logistics - https://bit.ly/pbi-logistica
 * Logística com cálculo OTIF | Logistics with OTIF calculations - https://bit.ly/log-otif
 
+Please, contact me for jobs:
 Contato: otoniel@ilovepowerbi.com
