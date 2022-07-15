@@ -1,4 +1,5 @@
 # Portfólio de Projetos Power BI / Power BI Projects Portfolio
+Please, contact me for jobs: otoniel@ilovepowerbi.com
 
 ### Financeiro | Finance
 * Fluxo de Caixa e DRE | Cash Flow - https://bit.ly/3aMENaJ
@@ -7,6 +8,3 @@
 ### Logística | Logistics
 * Logística | Logistics - https://bit.ly/pbi-logistica
 * Logística com cálculo OTIF | Logistics with OTIF calculations - https://bit.ly/log-otif
-
-Please, contact me for jobs:
-Contato: otoniel@ilovepowerbi.com
